@@ -1,0 +1,48 @@
+{
+    "convergence_data": [
+        398.24904019628275,
+        415.00030045833324,
+        0.0,
+        394.9690924944005,
+        404.16180634296654,
+        399.67238773170465,
+        400.5960301812309,
+        396.27782053954576
+    ],
+    "expected_values": {
+        "HHH": 404.16180634296654,
+        "HHL": 398.24904019628275,
+        "HLH": 396.27782053954576,
+        "HLL": 415.00030045833324,
+        "LHH": 400.5960301812309,
+        "LHL": 399.67238773170465,
+        "LLH": 394.9690924944005,
+        "LLL": 0.0
+    },
+    "iterations": 137,
+    "policy": {
+        "HHH": "N",
+        "HHL": "N",
+        "HLH": "N",
+        "HLL": "N",
+        "LHH": "N",
+        "LHL": "N",
+        "LLH": "N",
+        "LLL": "Goal"
+    },
+    "route_costs": {
+        "East": 83.8,
+        "North": 49.2,
+        "West": 88.4
+    },
+    "state_meanings": {
+        "HHH": "All Routes Heavily Congested",
+        "HHL": "North & East Congested, West Clear",
+        "HLH": "East Clear, North & West Congested",
+        "HLL": "North Congested, East & West Clear",
+        "LHH": "North Clear, East & West Congested",
+        "LHL": "North & West Clear, East Congested",
+        "LLH": "North & East Clear, West Congested",
+        "LLL": "All Routes Optimal (GOAL STATE)"
+    }
+}
