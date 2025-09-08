@@ -8,7 +8,7 @@ Systems Programming and Optimization
 
 **Advanced C++ systems programming projects demonstrating low-level system design, algorithmic optimization, and real-world problem solving.**
 
-  ![Algorithms](https://img.shields.io/badge/Optimization showcases **three comprehensive C++ projects** that demonstrate mastery of systems programming concepts, advanced algorithms, and software engineering principles. Each project tackles real-world challenges through different programming paradigms and system-level implementations.
+ This showcases **three comprehensive C++ projects** that demonstrate mastery of systems programming concepts, advanced algorithms, and software engineering principles. Each project tackles real-world challenges through different programming paradigms and system-level implementations.
 
 ### **🔍 Features:**
 - ✅ **Advanced C++ proficiency** - Modern C++17/20 features, STL, memory management
