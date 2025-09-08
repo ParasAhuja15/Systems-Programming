@@ -175,6 +175,3 @@ make all
 
 **Built to demonstrate systems programming expertise, algorithmic thinking, and software engineering best practices for technical recruitment and academic evaluation.**
 
-[9](https://github.com/codecrafters-io/build-your-own-x)
-[10](https://github.com/topics/system-programming?l=c&o=desc&s=stars)
-[11](https://www.reddit.com/r/programming/comments/cfeu99/readme_template_i_use_for_most_of_my_projects/)
